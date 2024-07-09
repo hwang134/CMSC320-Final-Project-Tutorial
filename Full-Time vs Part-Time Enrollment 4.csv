@@ -1,0 +1,177 @@
+ID Enrollment Status,Enrollment Status,ID Year,Year,Enrollment,University,ID University,Slug University,share
+1,"Full time",2022,"2022",5216217,"Doctoral Universities","DOC","doctoral-universities",0.7742394704992301
+2,"Part time",2022,"2022",1520997,"Doctoral Universities","DOC","doctoral-universities",0.2257605295007699
+1,"Full time",2022,"2022",3088642,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8303731896828219
+2,"Part time",2022,"2022",630941,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16962681031717802
+1,"Full time",2022,"2022",15462,"Georgetown University","131496","georgetown-university",0.7368471216164697
+1,"Full time",2022,"2022",12809,"University of Notre Dame","152080","university-of-notre-dame",0.9774132010682945
+1,"Full time",2022,"2022",12004,"Tufts University (168148)","168148","tufts-university",0.8937532573896211
+1,"Full time",2022,"2022",25098,"Cornell University","190415","cornell-university",0.969109583751641
+1,"Full time",2022,"2022",17425,"Duke University","198419","duke-university",0.9668201742218276
+1,"Full time",2022,"2022",16992,"Stanford University","243744","stanford-university",0.9293879560247225
+2,"Part time",2022,"2022",5522,"Georgetown University","131496","georgetown-university",0.2631528783835303
+2,"Part time",2022,"2022",296,"University of Notre Dame","152080","university-of-notre-dame",0.022586798931705458
+2,"Part time",2022,"2022",1427,"Tufts University (168148)","168148","tufts-university",0.10624674261037897
+2,"Part time",2022,"2022",800,"Cornell University","190415","cornell-university",0.030890416248358945
+2,"Part time",2022,"2022",598,"Duke University","198419","duke-university",0.033179825778172335
+2,"Part time",2022,"2022",1291,"Stanford University","243744","stanford-university",0.07061204397527758
+1,"Full time",2021,"2021",5203861,"Doctoral Universities","DOC","doctoral-universities",0.7658047846123871
+2,"Part time",2021,"2021",1591423,"Doctoral Universities","DOC","doctoral-universities",0.23419521538761293
+1,"Full time",2021,"2021",3076992,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8228831096451137
+2,"Part time",2021,"2021",662290,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1771168903548863
+1,"Full time",2021,"2021",15382,"Georgetown University","131496","georgetown-university",0.7347504179603535
+1,"Full time",2021,"2021",12850,"University of Notre Dame","152080","university-of-notre-dame",0.9780044143389908
+1,"Full time",2021,"2021",12001,"Tufts University (168148)","168148","tufts-university",0.902805988114045
+1,"Full time",2021,"2021",25008,"Cornell University","190415","cornell-university",0.9775623485263075
+1,"Full time",2021,"2021",17013,"Duke University","198419","duke-university",0.9655505107832009
+1,"Full time",2021,"2021",16605,"Stanford University","243744","stanford-university",0.9391968325791855
+2,"Part time",2021,"2021",5553,"Georgetown University","131496","georgetown-university",0.26524958203964655
+2,"Part time",2021,"2021",289,"University of Notre Dame","152080","university-of-notre-dame",0.02199558566100921
+2,"Part time",2021,"2021",1292,"Tufts University (168148)","168148","tufts-university",0.09719401188595501
+2,"Part time",2021,"2021",574,"Cornell University","190415","cornell-university",0.02243765147369244
+2,"Part time",2021,"2021",607,"Duke University","198419","duke-university",0.03444948921679909
+2,"Part time",2021,"2021",1075,"Stanford University","243744","stanford-university",0.06080316742081448
+1,"Full time",2020,"2020",5146509,"Doctoral Universities","DOC","doctoral-universities",0.7649821184906401
+2,"Part time",2020,"2020",1581111,"Doctoral Universities","DOC","doctoral-universities",0.23501788150935993
+1,"Full time",2020,"2020",2981969,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8189331513462967
+2,"Part time",2020,"2020",659316,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1810668486537033
+1,"Full time",2020,"2020",14022,"Georgetown University","131496","georgetown-university",0.7238655722471736
+1,"Full time",2020,"2020",12533,"University of Notre Dame","152080","university-of-notre-dame",0.9784526504801312
+1,"Full time",2020,"2020",11018,"Tufts University (168148)","168148","tufts-university",0.9017104509370653
+1,"Full time",2020,"2020",22975,"Cornell University","190415","cornell-university",0.972692633361558
+1,"Full time",2020,"2020",15352,"Duke University","198419","duke-university",0.9492950779124413
+1,"Full time",2020,"2020",14217,"Stanford University","243744","stanford-university",0.8911803422553751
+2,"Part time",2020,"2020",5349,"Georgetown University","131496","georgetown-university",0.2761344277528264
+2,"Part time",2020,"2020",276,"University of Notre Dame","152080","university-of-notre-dame",0.021547349519868843
+2,"Part time",2020,"2020",1201,"Tufts University (168148)","168148","tufts-university",0.09828954906293477
+2,"Part time",2020,"2020",645,"Cornell University","190415","cornell-university",0.027307366638441997
+2,"Part time",2020,"2020",820,"Duke University","198419","duke-university",0.050704922087558744
+2,"Part time",2020,"2020",1736,"Stanford University","243744","stanford-university",0.10881965774462483
+1,"Full time",2019,"2019",5208993,"Doctoral Universities","DOC","doctoral-universities",0.7762226976822367
+2,"Part time",2019,"2019",1501701,"Doctoral Universities","DOC","doctoral-universities",0.22377730231776327
+1,"Full time",2019,"2019",3000045,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8318404332159994
+2,"Part time",2019,"2019",606470,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16815956678400062
+1,"Full time",2019,"2019",14908,"Georgetown University","131496","georgetown-university",0.7608839891798092
+1,"Full time",2019,"2019",12403,"University of Notre Dame","152080","university-of-notre-dame",0.977923204289206
+1,"Full time",2019,"2019",10919,"Tufts University (168148)","168148","tufts-university",0.9192625021047315
+1,"Full time",2019,"2019",23921,"Cornell University","190415","cornell-university",0.9955882964997711
+1,"Full time",2019,"2019",15733,"Duke University","198419","duke-university",0.9428862519477407
+1,"Full time",2019,"2019",16144,"Stanford University","243744","stanford-university",0.935938315264653
+2,"Part time",2019,"2019",4685,"Georgetown University","131496","georgetown-university",0.23911601082019088
+2,"Part time",2019,"2019",280,"University of Notre Dame","152080","university-of-notre-dame",0.022076795710793976
+2,"Part time",2019,"2019",959,"Tufts University (168148)","168148","tufts-university",0.08073749789526856
+2,"Part time",2019,"2019",106,"Cornell University","190415","cornell-university",0.004411703500228909
+2,"Part time",2019,"2019",953,"Duke University","198419","duke-university",0.057113748052259376
+2,"Part time",2019,"2019",1105,"Stanford University","243744","stanford-university",0.06406168473534697
+1,"Full time",2018,"2018",5171124,"Doctoral Universities","DOC","doctoral-universities",0.7792053742333765
+2,"Part time",2018,"2018",1465283,"Doctoral Universities","DOC","doctoral-universities",0.22079462576662343
+1,"Full time",2018,"2018",2949765,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8363780866227821
+2,"Part time",2018,"2018",577067,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16362191337721785
+1,"Full time",2018,"2018",14741,"Georgetown University","131496","georgetown-university",0.767600499895855
+1,"Full time",2018,"2018",12323,"University of Notre Dame","152080","university-of-notre-dame",0.9774728325533434
+1,"Full time",2018,"2018",10718,"Tufts University (168148)","168148","tufts-university",0.9250819955118246
+1,"Full time",2018,"2018",23499,"Cornell University","190415","cornell-university",0.9957203389830509
+1,"Full time",2018,"2018",16135,"Duke University","198419","duke-university",0.946445330830596
+1,"Full time",2018,"2018",16332,"Stanford University","243744","stanford-university",0.9396467406938611
+2,"Part time",2018,"2018",4463,"Georgetown University","131496","georgetown-university",0.23239950010414498
+2,"Part time",2018,"2018",284,"University of Notre Dame","152080","university-of-notre-dame",0.02252716744665662
+2,"Part time",2018,"2018",868,"Tufts University (168148)","168148","tufts-university",0.07491800448817539
+2,"Part time",2018,"2018",101,"Cornell University","190415","cornell-university",0.004279661016949153
+2,"Part time",2018,"2018",913,"Duke University","198419","duke-university",0.05355466916940404
+2,"Part time",2018,"2018",1049,"Stanford University","243744","stanford-university",0.060353259306138884
+1,"Full time",2017,"2017",5139378,"Doctoral Universities","DOC","doctoral-universities",0.7796012812492605
+2,"Part time",2017,"2017",1452938,"Doctoral Universities","DOC","doctoral-universities",0.2203987187507395
+1,"Full time",2017,"2017",2906997,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8358476357736256
+2,"Part time",2017,"2017",570906,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16415236422637433
+1,"Full time",2017,"2017",14585,"Georgetown University","131496","georgetown-university",0.767429623783215
+1,"Full time",2017,"2017",12255,"University of Notre Dame","152080","university-of-notre-dame",0.9829951070826983
+1,"Full time",2017,"2017",10598,"Tufts University (168148)","168148","tufts-university",0.9256703642239497
+1,"Full time",2017,"2017",22923,"Cornell University","190415","cornell-university",0.9959593326381647
+1,"Full time",2017,"2017",15329,"Duke University","198419","duke-university",0.9503409795412275
+1,"Full time",2017,"2017",16189,"Stanford University","243744","stanford-university",0.9232918900422037
+2,"Part time",2017,"2017",4420,"Georgetown University","131496","georgetown-university",0.23257037621678506
+2,"Part time",2017,"2017",212,"University of Notre Dame","152080","university-of-notre-dame",0.017004892917301676
+2,"Part time",2017,"2017",851,"Tufts University (168148)","168148","tufts-university",0.07432963577605031
+2,"Part time",2017,"2017",93,"Cornell University","190415","cornell-university",0.004040667361835245
+2,"Part time",2017,"2017",801,"Duke University","198419","duke-university",0.049659020458772477
+2,"Part time",2017,"2017",1345,"Stanford University","243744","stanford-university",0.07670810995779628
+1,"Full time",2016,"2016",5122545,"Doctoral Universities","DOC","doctoral-universities",0.7803563969467882
+2,"Part time",2016,"2016",1441821,"Doctoral Universities","DOC","doctoral-universities",0.21964360305321184
+1,"Full time",2016,"2016",2864979,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8352998252709058
+2,"Part time",2016,"2016",564902,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1647001747290941
+1,"Full time",2016,"2016",14440,"Georgetown University","131496","georgetown-university",0.7794871794871795
+1,"Full time",2016,"2016",12187,"University of Notre Dame","152080","university-of-notre-dame",0.9833777132252077
+1,"Full time",2016,"2016",10545,"Tufts University (168148)","168148","tufts-university",0.9178344503438072
+1,"Full time",2016,"2016",22227,"Cornell University","190415","cornell-university",0.9958779515211255
+1,"Full time",2016,"2016",14960,"Duke University","198419","duke-university",0.9507467429297743
+1,"Full time",2016,"2016",16080,"Stanford University","243744","stanford-university",0.9357541899441341
+2,"Part time",2016,"2016",4085,"Georgetown University","131496","georgetown-university",0.2205128205128205
+2,"Part time",2016,"2016",206,"University of Notre Dame","152080","university-of-notre-dame",0.01662228677479222
+2,"Part time",2016,"2016",944,"Tufts University (168148)","168148","tufts-university",0.08216554965619288
+2,"Part time",2016,"2016",92,"Cornell University","190415","cornell-university",0.004122048478874501
+2,"Part time",2016,"2016",775,"Duke University","198419","duke-university",0.04925325707022561
+2,"Part time",2016,"2016",1104,"Stanford University","243744","stanford-university",0.06424581005586592
+1,"Full time",2015,"2015",5105931,"Doctoral Universities","DOC","doctoral-universities",0.7834890870126566
+2,"Part time",2015,"2015",1410983,"Doctoral Universities","DOC","doctoral-universities",0.2165109129873434
+1,"Full time",2015,"2015",2819994,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8377244148170593
+2,"Part time",2015,"2015",546261,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1622755851829407
+1,"Full time",2015,"2015",14723,"Georgetown University","131496","georgetown-university",0.7976055040901457
+1,"Full time",2015,"2015",12122,"University of Notre Dame","152080","university-of-notre-dame",0.9861698665798894
+1,"Full time",2015,"2015",10180,"Tufts University (168148)","168148","tufts-university",0.9140702163957978
+1,"Full time",2015,"2015",21817,"Cornell University","190415","cornell-university",0.9960281227173119
+1,"Full time",2015,"2015",15183,"Duke University","198419","duke-university",0.9498873873873874
+1,"Full time",2015,"2015",15778,"Stanford University","243744","stanford-university",0.9292108362779741
+2,"Part time",2015,"2015",3736,"Georgetown University","131496","georgetown-university",0.20239449590985428
+2,"Part time",2015,"2015",170,"University of Notre Dame","152080","university-of-notre-dame",0.01383013342011064
+2,"Part time",2015,"2015",957,"Tufts University (168148)","168148","tufts-university",0.08592978360420221
+2,"Part time",2015,"2015",87,"Cornell University","190415","cornell-university",0.003971877282688094
+2,"Part time",2015,"2015",801,"Duke University","198419","duke-university",0.050112612612612614
+2,"Part time",2015,"2015",1202,"Stanford University","243744","stanford-university",0.07078916372202591
+1,"Full time",2014,"2014",5047167,"Doctoral Universities","DOC","doctoral-universities",0.7846347573767918
+2,"Part time",2014,"2014",1385338,"Doctoral Universities","DOC","doctoral-universities",0.21536524262320822
+1,"Full time",2014,"2014",2785665,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.838142854048121
+2,"Part time",2014,"2014",537951,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16185714595187892
+1,"Full time",2014,"2014",14416,"Georgetown University","131496","georgetown-university",0.8072572516519207
+1,"Full time",2014,"2014",11992,"University of Notre Dame","152080","university-of-notre-dame",0.9846457016175384
+1,"Full time",2014,"2014",10019,"Tufts University (168148)","168148","tufts-university",0.9185843953424406
+1,"Full time",2014,"2014",21602,"Cornell University","190415","cornell-university",0.9964481756538586
+1,"Full time",2014,"2014",15130,"Duke University","198419","duke-university",0.954212916246216
+1,"Full time",2014,"2014",15751,"Stanford University","243744","stanford-university",0.9285503743441608
+2,"Part time",2014,"2014",3442,"Georgetown University","131496","georgetown-university",0.19274274834807928
+2,"Part time",2014,"2014",187,"University of Notre Dame","152080","university-of-notre-dame",0.015354298382461615
+2,"Part time",2014,"2014",888,"Tufts University (168148)","168148","tufts-university",0.08141560465755937
+2,"Part time",2014,"2014",77,"Cornell University","190415","cornell-university",0.003551824346141427
+2,"Part time",2014,"2014",726,"Duke University","198419","duke-university",0.045787083753784055
+2,"Part time",2014,"2014",1212,"Stanford University","243744","stanford-university",0.07144962565583918
+1,"Full time",2013,"2013",4787984,"Doctoral Universities","DOC","doctoral-universities",0.7784737311388582
+2,"Part time",2013,"2013",1362492,"Doctoral Universities","DOC","doctoral-universities",0.2215262688611418
+1,"Full time",2013,"2013",2739577,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8387527474159212
+2,"Part time",2013,"2013",526674,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16124725258407882
+1,"Full time",2013,"2013",14407,"Georgetown University","131496","georgetown-university",0.8071600649896353
+1,"Full time",2013,"2013",11908,"University of Notre Dame","152080","university-of-notre-dame",0.9821840976575388
+1,"Full time",2013,"2013",10051,"Tufts University (168148)","168148","tufts-university",0.9244849153789552
+1,"Full time",2013,"2013",21528,"Cornell University","190415","cornell-university",0.9969897652016857
+1,"Full time",2013,"2013",14894,"Duke University","198419","duke-university",0.9629533846253313
+1,"Full time",2013,"2013",15585,"Stanford University","243744","stanford-university",0.8495039790690069
+2,"Part time",2013,"2013",3442,"Georgetown University","131496","georgetown-university",0.19283993501036473
+2,"Part time",2013,"2013",216,"University of Notre Dame","152080","university-of-notre-dame",0.017815902342461234
+2,"Part time",2013,"2013",821,"Tufts University (168148)","168148","tufts-university",0.07551508462104489
+2,"Part time",2013,"2013",65,"Cornell University","190415","cornell-university",0.0030102347983142685
+2,"Part time",2013,"2013",573,"Duke University","198419","duke-university",0.03704661537466865
+2,"Part time",2013,"2013",2761,"Stanford University","243744","stanford-university",0.15049602093099312
+1,"Full time",2012,"2012",4737820,"Doctoral Universities","DOC","doctoral-universities",0.7754654237798027
+2,"Part time",2012,"2012",1371827,"Doctoral Universities","DOC","doctoral-universities",0.22453457622019735
+1,"Full time",2012,"2012",2719293,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8349905962369595
+2,"Part time",2012,"2012",537382,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16500940376304052
+1,"Full time",2012,"2012",14197,"Georgetown University","131496","georgetown-university",0.8179408884023737
+1,"Full time",2012,"2012",11940,"University of Notre Dame","152080","university-of-notre-dame",0.9846610588817417
+1,"Full time",2012,"2012",9983,"Tufts University (168148)","168148","tufts-university",0.9211959029251638
+1,"Full time",2012,"2012",21346,"Cornell University","190415","cornell-university",0.9963592233009708
+1,"Full time",2012,"2012",14924,"Duke University","198419","duke-university",0.9699727024567789
+1,"Full time",2012,"2012",15477,"Stanford University","243744","stanford-university",0.8357362708569577
+2,"Part time",2012,"2012",3160,"Georgetown University","131496","georgetown-university",0.1820591115976263
+2,"Part time",2012,"2012",186,"University of Notre Dame","152080","university-of-notre-dame",0.015338941118258289
+2,"Part time",2012,"2012",854,"Tufts University (168148)","168148","tufts-university",0.07880409707483621
+2,"Part time",2012,"2012",78,"Cornell University","190415","cornell-university",0.0036407766990291263
+2,"Part time",2012,"2012",462,"Duke University","198419","duke-university",0.03002729754322111
+2,"Part time",2012,"2012",3042,"Stanford University","243744","stanford-university",0.16426372914304227

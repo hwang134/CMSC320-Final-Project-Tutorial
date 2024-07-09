@@ -1,0 +1,176 @@
+ID Enrollment Status,Enrollment Status,ID Year,Year,Enrollment,University,ID University,Slug University,share
+1,"Full time",2022,"2022",5216217,"Doctoral Universities","DOC","doctoral-universities",0.7742394704992301
+2,"Part time",2022,"2022",1520997,"Doctoral Universities","DOC","doctoral-universities",0.2257605295007699
+1,"Full time",2022,"2022",3088642,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8303731896828219
+2,"Part time",2022,"2022",630941,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16962681031717802
+1,"Full time",2022,"2022",16888,"Johns Hopkins University","162928","johns-hopkins-university",0.5399840127897682
+1,"Full time",2022,"2022",11625,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9803508180131557
+1,"Full time",2022,"2022",14629,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8599224077122032
+1,"Full time",2022,"2022",8778,"Princeton University","186131","princeton-university",0.9927618185930784
+1,"Full time",2022,"2022",10585,"Brown University","217156","brown-university",0.9460184109393154
+1,"Full time",2022,"2022",12486,"Vanderbilt University","221999","vanderbilt-university",0.9107221006564551
+2,"Part time",2022,"2022",14387,"Johns Hopkins University","162928","johns-hopkins-university",0.4600159872102318
+2,"Part time",2022,"2022",233,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.019649181986844323
+2,"Part time",2022,"2022",2383,"Washington University in St Louis","179867","washington-university-in-st-louis",0.14007759228779684
+2,"Part time",2022,"2022",64,"Princeton University","186131","princeton-university",0.007238181406921511
+2,"Part time",2022,"2022",604,"Brown University","217156","brown-university",0.0539815890606846
+2,"Part time",2022,"2022",1224,"Vanderbilt University","221999","vanderbilt-university",0.08927789934354485
+1,"Full time",2021,"2021",5203861,"Doctoral Universities","DOC","doctoral-universities",0.7658047846123871
+2,"Part time",2021,"2021",1591423,"Doctoral Universities","DOC","doctoral-universities",0.23419521538761293
+1,"Full time",2021,"2021",3076992,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8228831096451137
+2,"Part time",2021,"2021",662290,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1771168903548863
+1,"Full time",2021,"2021",17255,"Johns Hopkins University","162928","johns-hopkins-university",0.5383943336765578
+1,"Full time",2021,"2021",11787,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9876822523881348
+1,"Full time",2021,"2021",14825,"Washington University in St Louis","179867","washington-university-in-st-louis",0.873446061391622
+1,"Full time",2021,"2021",8397,"Princeton University","186131","princeton-university",0.9904458598726115
+1,"Full time",2021,"2021",10256,"Brown University","217156","brown-university",0.9588631264023935
+1,"Full time",2021,"2021",12600,"Vanderbilt University","221999","vanderbilt-university",0.9133082052768918
+2,"Part time",2021,"2021",14794,"Johns Hopkins University","162928","johns-hopkins-university",0.46160566632344224
+2,"Part time",2021,"2021",147,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.012317747611865259
+2,"Part time",2021,"2021",2148,"Washington University in St Louis","179867","washington-university-in-st-louis",0.12655393860837802
+2,"Part time",2021,"2021",81,"Princeton University","186131","princeton-university",0.009554140127388535
+2,"Part time",2021,"2021",440,"Brown University","217156","brown-university",0.04113687359760658
+2,"Part time",2021,"2021",1196,"Vanderbilt University","221999","vanderbilt-university",0.08669179472310815
+1,"Full time",2020,"2020",5146509,"Doctoral Universities","DOC","doctoral-universities",0.7649821184906401
+2,"Part time",2020,"2020",1581111,"Doctoral Universities","DOC","doctoral-universities",0.23501788150935993
+1,"Full time",2020,"2020",2981969,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8189331513462967
+2,"Part time",2020,"2020",659316,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1810668486537033
+1,"Full time",2020,"2020",14652,"Johns Hopkins University","162928","johns-hopkins-university",0.5071651090342679
+1,"Full time",2020,"2020",11000,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9774302470232806
+1,"Full time",2020,"2020",13204,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8546831510130105
+1,"Full time",2020,"2020",7768,"Princeton University","186131","princeton-university",0.9891761110403667
+1,"Full time",2020,"2020",9613,"Brown University","217156","brown-university",0.96632488942501
+1,"Full time",2020,"2020",12309,"Vanderbilt University","221999","vanderbilt-university",0.9092856615202778
+2,"Part time",2020,"2020",14238,"Johns Hopkins University","162928","johns-hopkins-university",0.4928348909657321
+2,"Part time",2020,"2020",254,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.022569752976719388
+2,"Part time",2020,"2020",2245,"Washington University in St Louis","179867","washington-university-in-st-louis",0.14531684898698946
+2,"Part time",2020,"2020",85,"Princeton University","186131","princeton-university",0.010823888959633262
+2,"Part time",2020,"2020",335,"Brown University","217156","brown-university",0.033675110574989946
+2,"Part time",2020,"2020",1228,"Vanderbilt University","221999","vanderbilt-university",0.09071433847972224
+1,"Full time",2019,"2019",5208993,"Doctoral Universities","DOC","doctoral-universities",0.7762226976822367
+2,"Part time",2019,"2019",1501701,"Doctoral Universities","DOC","doctoral-universities",0.22377730231776327
+1,"Full time",2019,"2019",3000045,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8318404332159994
+2,"Part time",2019,"2019",606470,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16815956678400062
+1,"Full time",2019,"2019",14907,"Johns Hopkins University","162928","johns-hopkins-university",0.5505003877543484
+1,"Full time",2019,"2019",11363,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9863715277777778
+1,"Full time",2019,"2019",13874,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8568958063121487
+1,"Full time",2019,"2019",8325,"Princeton University","186131","princeton-university",0.9888347784772539
+1,"Full time",2019,"2019",9741,"Brown University","217156","brown-university",0.9427078292848157
+1,"Full time",2019,"2019",12052,"Vanderbilt University","221999","vanderbilt-university",0.9178280405148123
+2,"Part time",2019,"2019",12172,"Johns Hopkins University","162928","johns-hopkins-university",0.4494996122456516
+2,"Part time",2019,"2019",157,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.013628472222222222
+2,"Part time",2019,"2019",2317,"Washington University in St Louis","179867","washington-university-in-st-louis",0.14310419368785127
+2,"Part time",2019,"2019",94,"Princeton University","186131","princeton-university",0.011165221522746169
+2,"Part time",2019,"2019",592,"Brown University","217156","brown-university",0.05729217071518436
+2,"Part time",2019,"2019",1079,"Vanderbilt University","221999","vanderbilt-university",0.08217195948518773
+1,"Full time",2018,"2018",5171124,"Doctoral Universities","DOC","doctoral-universities",0.7792053742333765
+2,"Part time",2018,"2018",1465283,"Doctoral Universities","DOC","doctoral-universities",0.22079462576662343
+1,"Full time",2018,"2018",2949765,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8363780866227821
+2,"Part time",2018,"2018",577067,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16362191337721785
+1,"Full time",2018,"2018",14600,"Johns Hopkins University","162928","johns-hopkins-university",0.5582747017436525
+1,"Full time",2018,"2018",11402,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9851391048902713
+1,"Full time",2018,"2018",13773,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8688493565480696
+1,"Full time",2018,"2018",8267,"Princeton University","186131","princeton-university",0.9872223549080488
+1,"Full time",2018,"2018",9648,"Brown University","217156","brown-university",0.9406259140099444
+1,"Full time",2018,"2018",11864,"Vanderbilt University","221999","vanderbilt-university",0.9251403618215845
+2,"Part time",2018,"2018",11552,"Johns Hopkins University","162928","johns-hopkins-university",0.4417252982563475
+2,"Part time",2018,"2018",172,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.014860895109728703
+2,"Part time",2018,"2018",2079,"Washington University in St Louis","179867","washington-university-in-st-louis",0.13115064345193037
+2,"Part time",2018,"2018",107,"Princeton University","186131","princeton-university",0.012777645091951277
+2,"Part time",2018,"2018",609,"Brown University","217156","brown-university",0.05937408599005557
+2,"Part time",2018,"2018",960,"Vanderbilt University","221999","vanderbilt-university",0.07485963817841547
+1,"Full time",2017,"2017",5139378,"Doctoral Universities","DOC","doctoral-universities",0.7796012812492605
+2,"Part time",2017,"2017",1452938,"Doctoral Universities","DOC","doctoral-universities",0.2203987187507395
+1,"Full time",2017,"2017",2906997,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8358476357736256
+2,"Part time",2017,"2017",570906,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16415236422637433
+1,"Full time",2017,"2017",14393,"Johns Hopkins University","162928","johns-hopkins-university",0.5722635282891336
+1,"Full time",2017,"2017",11181,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9751439037153323
+1,"Full time",2017,"2017",13248,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8657126053714957
+1,"Full time",2017,"2017",8139,"Princeton University","186131","princeton-university",0.9838027317780732
+1,"Full time",2017,"2017",9495,"Brown University","217156","brown-university",0.9405646359583952
+1,"Full time",2017,"2017",11782,"Vanderbilt University","221999","vanderbilt-university",0.9356734434561627
+2,"Part time",2017,"2017",10758,"Johns Hopkins University","162928","johns-hopkins-university",0.4277364717108664
+2,"Part time",2017,"2017",285,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.024856096284667714
+2,"Part time",2017,"2017",2055,"Washington University in St Louis","179867","washington-university-in-st-louis",0.13428739462850423
+2,"Part time",2017,"2017",134,"Princeton University","186131","princeton-university",0.01619726822192675
+2,"Part time",2017,"2017",600,"Brown University","217156","brown-university",0.05943536404160475
+2,"Part time",2017,"2017",810,"Vanderbilt University","221999","vanderbilt-university",0.06432655654383736
+1,"Full time",2016,"2016",5122545,"Doctoral Universities","DOC","doctoral-universities",0.7803563969467882
+2,"Part time",2016,"2016",1441821,"Doctoral Universities","DOC","doctoral-universities",0.21964360305321184
+1,"Full time",2016,"2016",2864979,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8352998252709058
+2,"Part time",2016,"2016",564902,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1647001747290941
+1,"Full time",2016,"2016",13963,"Johns Hopkins University","162928","johns-hopkins-university",0.583810678596814
+1,"Full time",2016,"2016",11183,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9830344585091421
+1,"Full time",2016,"2016",12959,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8612347976340798
+1,"Full time",2016,"2016",8032,"Princeton University","186131","princeton-university",0.9817870675956485
+1,"Full time",2016,"2016",9196,"Brown University","217156","brown-university",0.9401901646048462
+1,"Full time",2016,"2016",11834,"Vanderbilt University","221999","vanderbilt-university",0.9401763724477635
+2,"Part time",2016,"2016",9954,"Johns Hopkins University","162928","johns-hopkins-university",0.41618932140318604
+2,"Part time",2016,"2016",193,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.016965541490857945
+2,"Part time",2016,"2016",2088,"Washington University in St Louis","179867","washington-university-in-st-louis",0.1387652023659201
+2,"Part time",2016,"2016",149,"Princeton University","186131","princeton-university",0.018212932404351546
+2,"Part time",2016,"2016",585,"Brown University","217156","brown-university",0.05980983539515387
+2,"Part time",2016,"2016",753,"Vanderbilt University","221999","vanderbilt-university",0.059823627552236434
+1,"Full time",2015,"2015",5105931,"Doctoral Universities","DOC","doctoral-universities",0.7834890870126566
+2,"Part time",2015,"2015",1410983,"Doctoral Universities","DOC","doctoral-universities",0.2165109129873434
+1,"Full time",2015,"2015",2819994,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8377244148170593
+2,"Part time",2015,"2015",546261,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1622755851829407
+1,"Full time",2015,"2015",13806,"Johns Hopkins University","162928","johns-hopkins-university",0.608569161597461
+1,"Full time",2015,"2015",11181,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.986761980407731
+1,"Full time",2015,"2015",12664,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8622004357298475
+1,"Full time",2015,"2015",8013,"Princeton University","186131","princeton-university",0.9846399606782993
+1,"Full time",2015,"2015",8894,"Brown University","217156","brown-university",0.9403679424825544
+1,"Full time",2015,"2015",11807,"Vanderbilt University","221999","vanderbilt-university",0.9395241505530357
+2,"Part time",2015,"2015",8880,"Johns Hopkins University","162928","johns-hopkins-university",0.391430838402539
+2,"Part time",2015,"2015",150,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.013238019592268996
+2,"Part time",2015,"2015",2024,"Washington University in St Louis","179867","washington-university-in-st-louis",0.1377995642701525
+2,"Part time",2015,"2015",125,"Princeton University","186131","princeton-university",0.015360039321700663
+2,"Part time",2015,"2015",564,"Brown University","217156","brown-university",0.05963205751744555
+2,"Part time",2015,"2015",760,"Vanderbilt University","221999","vanderbilt-university",0.06047584944696427
+1,"Full time",2014,"2014",5047167,"Doctoral Universities","DOC","doctoral-universities",0.7846347573767918
+2,"Part time",2014,"2014",1385338,"Doctoral Universities","DOC","doctoral-universities",0.21536524262320822
+1,"Full time",2014,"2014",2785665,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.838142854048121
+2,"Part time",2014,"2014",537951,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16185714595187892
+1,"Full time",2014,"2014",13407,"Johns Hopkins University","162928","johns-hopkins-university",0.6273161145423919
+1,"Full time",2014,"2014",11106,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9811820832228996
+1,"Full time",2014,"2014",12319,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8585865625871202
+1,"Full time",2014,"2014",7972,"Princeton University","186131","princeton-university",0.9856577645895154
+1,"Full time",2014,"2014",8756,"Brown University","217156","brown-university",0.9537087463239299
+1,"Full time",2014,"2014",11872,"Vanderbilt University","221999","vanderbilt-university",0.9358347784959798
+2,"Part time",2014,"2014",7965,"Johns Hopkins University","162928","johns-hopkins-university",0.3726838854576081
+2,"Part time",2014,"2014",213,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.01881791677710045
+2,"Part time",2014,"2014",2029,"Washington University in St Louis","179867","washington-university-in-st-louis",0.14141343741287984
+2,"Part time",2014,"2014",116,"Princeton University","186131","princeton-university",0.014342235410484669
+2,"Part time",2014,"2014",425,"Brown University","217156","brown-university",0.04629125367607014
+2,"Part time",2014,"2014",814,"Vanderbilt University","221999","vanderbilt-university",0.06416522150402018
+1,"Full time",2013,"2013",4787984,"Doctoral Universities","DOC","doctoral-universities",0.7784737311388582
+2,"Part time",2013,"2013",1362492,"Doctoral Universities","DOC","doctoral-universities",0.2215262688611418
+1,"Full time",2013,"2013",2739577,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8387527474159212
+2,"Part time",2013,"2013",526674,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16124725258407882
+1,"Full time",2013,"2013",13256,"Johns Hopkins University","162928","johns-hopkins-university",0.6337125920260063
+1,"Full time",2013,"2013",11138,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.9855764976550748
+1,"Full time",2013,"2013",12078,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8607468643101482
+1,"Full time",2013,"2013",7935,"Princeton University","186131","princeton-university",0.9901422510606439
+1,"Full time",2013,"2013",8527,"Brown University","217156","brown-university",0.9534831711953483
+1,"Full time",2013,"2013",11965,"Vanderbilt University","221999","vanderbilt-university",0.9379164380340206
+2,"Part time",2013,"2013",7662,"Johns Hopkins University","162928","johns-hopkins-university",0.3662874079739937
+2,"Part time",2013,"2013",163,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.014423502344925229
+2,"Part time",2013,"2013",1954,"Washington University in St Louis","179867","washington-university-in-st-louis",0.13925313568985176
+2,"Part time",2013,"2013",79,"Princeton University","186131","princeton-university",0.009857748939356127
+2,"Part time",2013,"2013",416,"Brown University","217156","brown-university",0.04651682880465168
+2,"Part time",2013,"2013",792,"Vanderbilt University","221999","vanderbilt-university",0.062083561965979465
+1,"Full time",2012,"2012",4737820,"Doctoral Universities","DOC","doctoral-universities",0.7754654237798027
+2,"Part time",2012,"2012",1371827,"Doctoral Universities","DOC","doctoral-universities",0.22453457622019735
+1,"Full time",2012,"2012",2719293,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8349905962369595
+2,"Part time",2012,"2012",537382,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16500940376304052
+1,"Full time",2012,"2012",13133,"Johns Hopkins University","162928","johns-hopkins-university",0.6292463226486512
+1,"Full time",2012,"2012",11017,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.98462775940656
+1,"Full time",2012,"2012",11965,"Washington University in St Louis","179867","washington-university-in-st-louis",0.8575831422018348
+1,"Full time",2012,"2012",7975,"Princeton University","186131","princeton-university",1
+1,"Full time",2012,"2012",8420,"Brown University","217156","brown-university",0.947664603263928
+1,"Full time",2012,"2012",11901,"Vanderbilt University","221999","vanderbilt-university",0.9363493312352479
+2,"Part time",2012,"2012",7738,"Johns Hopkins University","162928","johns-hopkins-university",0.3707536773513488
+2,"Part time",2012,"2012",172,"Massachusetts Institute of Technology (166683)","166683","massachusetts-institute-of-technology",0.015372240593439985
+2,"Part time",2012,"2012",1987,"Washington University in St Louis","179867","washington-university-in-st-louis",0.14241685779816513
+2,"Part time",2012,"2012",465,"Brown University","217156","brown-university",0.05233539673607203
+2,"Part time",2012,"2012",809,"Vanderbilt University","221999","vanderbilt-university",0.06365066876475216

@@ -1,0 +1,177 @@
+ID Enrollment Status,Enrollment Status,ID Year,Year,Enrollment,University,ID University,Slug University,share
+1,"Full time",2022,"2022",5216217,"Doctoral Universities","DOC","doctoral-universities",0.7742394704992301
+2,"Part time",2022,"2022",1520997,"Doctoral Universities","DOC","doctoral-universities",0.2257605295007699
+1,"Full time",2022,"2022",3088642,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8303731896828219
+2,"Part time",2022,"2022",630941,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16962681031717802
+1,"Full time",2022,"2022",42969,"University of Southern California","123961","university-of-southern-california",0.8779037695372357
+1,"Full time",2022,"2022",47046,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.8265865485979338
+1,"Full time",2022,"2022",47345,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9242557345046364
+1,"Full time",2022,"2022",6868,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9856486796785304
+1,"Full time",2022,"2022",10180,"University of Rochester","195030","university-of-rochester",0.8346314667541198
+1,"Full time",2022,"2022",23248,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.8913426884441377
+2,"Part time",2022,"2022",5976,"University of Southern California","123961","university-of-southern-california",0.12209623046276433
+2,"Part time",2022,"2022",9870,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.1734134514020662
+2,"Part time",2022,"2022",3880,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.07574426549536359
+2,"Part time",2022,"2022",100,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.014351320321469576
+2,"Part time",2022,"2022",2017,"University of Rochester","195030","university-of-rochester",0.16536853324588013
+2,"Part time",2022,"2022",2834,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.10865731155586228
+1,"Full time",2021,"2021",5203861,"Doctoral Universities","DOC","doctoral-universities",0.7658047846123871
+2,"Part time",2021,"2021",1591423,"Doctoral Universities","DOC","doctoral-universities",0.23419521538761293
+1,"Full time",2021,"2021",3076992,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8228831096451137
+2,"Part time",2021,"2021",662290,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1771168903548863
+1,"Full time",2021,"2021",42631,"University of Southern California","123961","university-of-southern-california",0.864410560038931
+1,"Full time",2021,"2021",46600,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.8232197431413076
+1,"Full time",2021,"2021",46710,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9290345678030152
+1,"Full time",2021,"2021",6704,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9896663714201358
+1,"Full time",2021,"2021",10148,"University of Rochester","195030","university-of-rochester",0.842927153418058
+1,"Full time",2021,"2021",23247,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.8939434724091521
+2,"Part time",2021,"2021",6687,"University of Southern California","123961","university-of-southern-california",0.13558943996106898
+2,"Part time",2021,"2021",10007,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.1767802568586924
+2,"Part time",2021,"2021",3568,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.07096543219698477
+2,"Part time",2021,"2021",70,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.010333628579864187
+2,"Part time",2021,"2021",1891,"University of Rochester","195030","university-of-rochester",0.157072846581942
+2,"Part time",2021,"2021",2758,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.10605652759084791
+1,"Full time",2020,"2020",5146509,"Doctoral Universities","DOC","doctoral-universities",0.7649821184906401
+2,"Part time",2020,"2020",1581111,"Doctoral Universities","DOC","doctoral-universities",0.23501788150935993
+1,"Full time",2020,"2020",2981969,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8189331513462967
+2,"Part time",2020,"2020",659316,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1810668486537033
+1,"Full time",2020,"2020",38607,"University of Southern California","123961","university-of-southern-california",0.8340786829995464
+1,"Full time",2020,"2020",43274,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.8214658592608061
+1,"Full time",2020,"2020",44584,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9306364414386207
+1,"Full time",2020,"2020",7401,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.986668444207439
+1,"Full time",2020,"2020",9451,"University of Rochester","195030","university-of-rochester",0.804956988331488
+1,"Full time",2020,"2020",22851,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.8916419541126892
+2,"Part time",2020,"2020",7680,"University of Southern California","123961","university-of-southern-california",0.16592131700045368
+2,"Part time",2020,"2020",9405,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.178534140739194
+2,"Part time",2020,"2020",3323,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.06936355856137934
+2,"Part time",2020,"2020",100,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.013331555792560993
+2,"Part time",2020,"2020",2290,"University of Rochester","195030","university-of-rochester",0.19504301166851204
+2,"Part time",2020,"2020",2777,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.10835804588731075
+1,"Full time",2019,"2019",5208993,"Doctoral Universities","DOC","doctoral-universities",0.7762226976822367
+2,"Part time",2019,"2019",1501701,"Doctoral Universities","DOC","doctoral-universities",0.22377730231776327
+1,"Full time",2019,"2019",3000045,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8318404332159994
+2,"Part time",2019,"2019",606470,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16815956678400062
+1,"Full time",2019,"2019",41497,"University of Southern California","123961","university-of-southern-california",0.8587777570828419
+1,"Full time",2019,"2019",44022,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.8530568743338823
+1,"Full time",2019,"2019",45510,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9463505926388023
+1,"Full time",2019,"2019",7403,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9833953241232731
+1,"Full time",2019,"2019",10060,"University of Rochester","195030","university-of-rochester",0.8223657320362953
+1,"Full time",2019,"2019",22921,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.9164001279385895
+2,"Part time",2019,"2019",6824,"University of Southern California","123961","university-of-southern-california",0.14122224291715818
+2,"Part time",2019,"2019",7583,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.1469431256661176
+2,"Part time",2019,"2019",2580,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.053649407361197755
+2,"Part time",2019,"2019",125,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.016604675876726885
+2,"Part time",2019,"2019",2173,"University of Rochester","195030","university-of-rochester",0.17763426796370474
+2,"Part time",2019,"2019",2091,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.08359987206141052
+1,"Full time",2018,"2018",5171124,"Doctoral Universities","DOC","doctoral-universities",0.7792053742333765
+2,"Part time",2018,"2018",1465283,"Doctoral Universities","DOC","doctoral-universities",0.22079462576662343
+1,"Full time",2018,"2018",2949765,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8363780866227821
+2,"Part time",2018,"2018",577067,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16362191337721785
+1,"Full time",2018,"2018",40952,"University of Southern California","123961","university-of-southern-california",0.8656098076516593
+1,"Full time",2018,"2018",43313,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.8714538650356123
+1,"Full time",2018,"2018",44340,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9491394811199589
+1,"Full time",2018,"2018",7798,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9877137428752375
+1,"Full time",2018,"2018",9937,"University of Rochester","195030","university-of-rochester",0.8409071676398409
+1,"Full time",2018,"2018",22509,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.9135516863509071
+2,"Part time",2018,"2018",6358,"University of Southern California","123961","university-of-southern-california",0.13439019234834074
+2,"Part time",2018,"2018",6389,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.12854613496438774
+2,"Part time",2018,"2018",2376,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.050860518880041096
+2,"Part time",2018,"2018",97,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.012286257124762508
+2,"Part time",2018,"2018",1880,"University of Rochester","195030","university-of-rochester",0.1590928323601591
+2,"Part time",2018,"2018",2130,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.0864483136490929
+1,"Full time",2017,"2017",5139378,"Doctoral Universities","DOC","doctoral-universities",0.7796012812492605
+2,"Part time",2017,"2017",1452938,"Doctoral Universities","DOC","doctoral-universities",0.2203987187507395
+1,"Full time",2017,"2017",2906997,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8358476357736256
+2,"Part time",2017,"2017",570906,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16415236422637433
+1,"Full time",2017,"2017",39281,"University of Southern California","123961","university-of-southern-california",0.8597850592072143
+1,"Full time",2017,"2017",42850,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.8887091421934628
+1,"Full time",2017,"2017",43517,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9459806095387157
+1,"Full time",2017,"2017",7463,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9830084299262382
+1,"Full time",2017,"2017",9766,"University of Rochester","195030","university-of-rochester",0.8384271978021978
+1,"Full time",2017,"2017",22167,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.9099753694581281
+2,"Part time",2017,"2017",6406,"University of Southern California","123961","university-of-southern-california",0.14021494079278568
+2,"Part time",2017,"2017",5366,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.11129085780653725
+2,"Part time",2017,"2017",2485,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.05401939046128429
+2,"Part time",2017,"2017",129,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.016991570073761855
+2,"Part time",2017,"2017",1882,"University of Rochester","195030","university-of-rochester",0.1615728021978022
+2,"Part time",2017,"2017",2193,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.09002463054187192
+1,"Full time",2016,"2016",5122545,"Doctoral Universities","DOC","doctoral-universities",0.7803563969467882
+2,"Part time",2016,"2016",1441821,"Doctoral Universities","DOC","doctoral-universities",0.21964360305321184
+1,"Full time",2016,"2016",2864979,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8352998252709058
+2,"Part time",2016,"2016",564902,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1647001747290941
+1,"Full time",2016,"2016",37900,"University of Southern California","123961","university-of-southern-california",0.8638964236055708
+1,"Full time",2016,"2016",42453,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.9041979936529574
+1,"Full time",2016,"2016",42361,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.947291918243213
+1,"Full time",2016,"2016",7269,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9872334646203993
+1,"Full time",2016,"2016",9594,"University of Rochester","195030","university-of-rochester",0.855919350521902
+1,"Full time",2016,"2016",21639,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.9054732613607833
+2,"Part time",2016,"2016",5971,"University of Southern California","123961","university-of-southern-california",0.13610357639442913
+2,"Part time",2016,"2016",4498,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.09580200634704267
+2,"Part time",2016,"2016",2357,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.05270808175678698
+2,"Part time",2016,"2016",94,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.012766535379600706
+2,"Part time",2016,"2016",1615,"University of Rochester","195030","university-of-rochester",0.14408064947809796
+2,"Part time",2016,"2016",2259,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.09452673863921666
+1,"Full time",2015,"2015",5105931,"Doctoral Universities","DOC","doctoral-universities",0.7834890870126566
+2,"Part time",2015,"2015",1410983,"Doctoral Universities","DOC","doctoral-universities",0.2165109129873434
+1,"Full time",2015,"2015",2819994,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8377244148170593
+2,"Part time",2015,"2015",546261,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1622755851829407
+1,"Full time",2015,"2015",37299,"University of Southern California","123961","university-of-southern-california",0.8594041611944425
+1,"Full time",2015,"2015",41756,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.9108677631865975
+1,"Full time",2015,"2015",41114,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9418799111131475
+1,"Full time",2015,"2015",6869,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9838155256373532
+1,"Full time",2015,"2015",9470,"University of Rochester","195030","university-of-rochester",0.8527690229626295
+1,"Full time",2015,"2015",21747,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.9105639994975505
+2,"Part time",2015,"2015",6102,"University of Southern California","123961","university-of-southern-california",0.14059583880555748
+2,"Part time",2015,"2015",4086,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.08913223681340256
+2,"Part time",2015,"2015",2537,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.058120088886852536
+2,"Part time",2015,"2015",113,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.016184474362646806
+2,"Part time",2015,"2015",1635,"University of Rochester","195030","university-of-rochester",0.14723097703737056
+2,"Part time",2015,"2015",2136,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.08943600050244944
+1,"Full time",2014,"2014",5047167,"Doctoral Universities","DOC","doctoral-universities",0.7846347573767918
+2,"Part time",2014,"2014",1385338,"Doctoral Universities","DOC","doctoral-universities",0.21536524262320822
+1,"Full time",2014,"2014",2785665,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.838142854048121
+2,"Part time",2014,"2014",537951,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16185714595187892
+1,"Full time",2014,"2014",36452,"University of Southern California","123961","university-of-southern-california",0.8586436765364049
+1,"Full time",2014,"2014",41414,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.9174568010633585
+1,"Full time",2014,"2014",41101,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9421432664756447
+1,"Full time",2014,"2014",6671,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9760058522311631
+1,"Full time",2014,"2014",9436,"University of Rochester","195030","university-of-rochester",0.8531645569620253
+1,"Full time",2014,"2014",21640,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.911848980279791
+2,"Part time",2014,"2014",6001,"University of Southern California","123961","university-of-southern-california",0.14135632346359503
+2,"Part time",2014,"2014",3726,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.08254319893664155
+2,"Part time",2014,"2014",2524,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.0578567335243553
+2,"Part time",2014,"2014",164,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.02399414776883687
+2,"Part time",2014,"2014",1624,"University of Rochester","195030","university-of-rochester",0.1468354430379747
+2,"Part time",2014,"2014",2092,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.088151019720209
+1,"Full time",2013,"2013",4787984,"Doctoral Universities","DOC","doctoral-universities",0.7784737311388582
+2,"Part time",2013,"2013",1362492,"Doctoral Universities","DOC","doctoral-universities",0.2215262688611418
+1,"Full time",2013,"2013",2739577,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8387527474159212
+2,"Part time",2013,"2013",526674,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16124725258407882
+1,"Full time",2013,"2013",35895,"University of Southern California","123961","university-of-southern-california",0.8676996712434732
+1,"Full time",2013,"2013",41118,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.9149125539584353
+1,"Full time",2013,"2013",41152,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9414779226721574
+1,"Full time",2013,"2013",6565,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9778075662794161
+1,"Full time",2013,"2013",9284,"University of Rochester","195030","university-of-rochester",0.8424682395644283
+1,"Full time",2013,"2013",21086,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.8986532560518241
+2,"Part time",2013,"2013",5473,"University of Southern California","123961","university-of-southern-california",0.13230032875652678
+2,"Part time",2013,"2013",3824,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.08508744604156468
+2,"Part time",2013,"2013",2558,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.0585220773278426
+2,"Part time",2013,"2013",149,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.022192433720583854
+2,"Part time",2013,"2013",1736,"University of Rochester","195030","university-of-rochester",0.15753176043557168
+2,"Part time",2013,"2013",2378,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.10134674394817593
+1,"Full time",2012,"2012",4737820,"Doctoral Universities","DOC","doctoral-universities",0.7754654237798027
+2,"Part time",2012,"2012",1371827,"Doctoral Universities","DOC","doctoral-universities",0.22453457622019735
+1,"Full time",2012,"2012",2719293,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8349905962369595
+2,"Part time",2012,"2012",537382,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16500940376304052
+1,"Full time",2012,"2012",34824,"University of Southern California","123961","university-of-southern-california",0.8715150908453877
+1,"Full time",2012,"2012",40704,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.9142857142857143
+1,"Full time",2012,"2012",40966,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.9433519089946115
+1,"Full time",2012,"2012",6538,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.9819765695404026
+1,"Full time",2012,"2012",8784,"University of Rochester","195030","university-of-rochester",0.8357754519505233
+1,"Full time",2012,"2012",20984,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.8777345547329234
+2,"Part time",2012,"2012",5134,"University of Southern California","123961","university-of-southern-california",0.12848490915461233
+2,"Part time",2012,"2012",3816,"University of Illinois Urbana-Champaign","145637","university-of-illinois-urbana-champaign",0.08571428571428572
+2,"Part time",2012,"2012",2460,"University of Michigan-Ann Arbor","170976","university-of-michigan-ann-arbor",0.05664809100538848
+2,"Part time",2012,"2012",120,"Rensselaer Polytechnic Institute","194824","rensselaer-polytechnic-institute",0.018023430459597478
+2,"Part time",2012,"2012",1726,"University of Rochester","195030","university-of-rochester",0.1642245480494767
+2,"Part time",2012,"2012",2923,"University of Virginia-Main Campus","234076","university-of-virginia-main-campus",0.12226544526707658

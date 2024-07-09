@@ -1,0 +1,177 @@
+ID Enrollment Status,Enrollment Status,ID Year,Year,Enrollment,University,ID University,Slug University,share
+1,"Full time",2022,"2022",5216217,"Doctoral Universities","DOC","doctoral-universities",0.7742394704992301
+2,"Part time",2022,"2022",1520997,"Doctoral Universities","DOC","doctoral-universities",0.2257605295007699
+1,"Full time",2022,"2022",3088642,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8303731896828219
+2,"Part time",2022,"2022",630941,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16962681031717802
+1,"Full time",2022,"2022",41022,"University of California-Berkeley","110635","university-of-california-berkeley",0.9054230030679586
+1,"Full time",2022,"2022",36165,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8865708962541675
+1,"Full time",2022,"2022",5145,"Brandeis University (165015)","165015","brandeis-university",0.9218777996774772
+1,"Full time",2022,"2022",7848,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.8426025338200558
+1,"Full time",2022,"2022",28484,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8984071912947484
+1,"Full time",2022,"2022",49081,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9369463958460599
+2,"Part time",2022,"2022",4285,"University of California-Berkeley","110635","university-of-california-berkeley",0.09457699693204141
+2,"Part time",2022,"2022",4627,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.11342910374583251
+2,"Part time",2022,"2022",436,"Brandeis University (165015)","165015","brandeis-university",0.07812220032252284
+2,"Part time",2022,"2022",1466,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.15739746617994416
+2,"Part time",2022,"2022",3221,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.10159280870525154
+2,"Part time",2022,"2022",3303,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06305360415394014
+1,"Full time",2021,"2021",5203861,"Doctoral Universities","DOC","doctoral-universities",0.7658047846123871
+2,"Part time",2021,"2021",1591423,"Doctoral Universities","DOC","doctoral-universities",0.23419521538761293
+1,"Full time",2021,"2021",3076992,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8228831096451137
+2,"Part time",2021,"2021",662290,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1771168903548863
+1,"Full time",2021,"2021",40937,"University of California-Berkeley","110635","university-of-california-berkeley",0.9089839239719336
+1,"Full time",2021,"2021",36431,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8827049815855786
+1,"Full time",2021,"2021",5120,"Brandeis University (165015)","165015","brandeis-university",0.9211946743432889
+1,"Full time",2021,"2021",6825,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.8235790997948594
+1,"Full time",2021,"2021",26490,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8372048923864606
+1,"Full time",2021,"2021",48512,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9330845723298263
+2,"Part time",2021,"2021",4099,"University of California-Berkeley","110635","university-of-california-berkeley",0.09101607602806644
+2,"Part time",2021,"2021",4841,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.1172950184144214
+2,"Part time",2021,"2021",438,"Brandeis University (165015)","165015","brandeis-university",0.07880532565671104
+2,"Part time",2021,"2021",1462,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.1764209002051406
+2,"Part time",2021,"2021",5151,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.1627951076135394
+2,"Part time",2021,"2021",3479,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06691542767017368
+1,"Full time",2020,"2020",5146509,"Doctoral Universities","DOC","doctoral-universities",0.7649821184906401
+2,"Part time",2020,"2020",1581111,"Doctoral Universities","DOC","doctoral-universities",0.23501788150935993
+1,"Full time",2020,"2020",2981969,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8189331513462967
+2,"Part time",2020,"2020",659316,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1810668486537033
+1,"Full time",2020,"2020",38802,"University of California-Berkeley","110635","university-of-california-berkeley",0.9167198242256716
+1,"Full time",2020,"2020",35620,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8749907882777764
+1,"Full time",2020,"2020",4847,"Brandeis University (165015)","165015","brandeis-university",0.8909926470588235
+1,"Full time",2020,"2020",5961,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.8214138073584125
+1,"Full time",2020,"2020",25197,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8373321813106473
+1,"Full time",2020,"2020",47298,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9370393850542832
+2,"Part time",2020,"2020",3525,"University of California-Berkeley","110635","university-of-california-berkeley",0.08328017577432845
+2,"Part time",2020,"2020",5089,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.1250092117222236
+2,"Part time",2020,"2020",593,"Brandeis University (165015)","165015","brandeis-university",0.10900735294117647
+2,"Part time",2020,"2020",1296,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.17858619264158743
+2,"Part time",2020,"2020",4895,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.16266781868935265
+2,"Part time",2020,"2020",3178,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06296061494571678
+1,"Full time",2019,"2019",5208993,"Doctoral Universities","DOC","doctoral-universities",0.7762226976822367
+2,"Part time",2019,"2019",1501701,"Doctoral Universities","DOC","doctoral-universities",0.22377730231776327
+1,"Full time",2019,"2019",3000045,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8318404332159994
+2,"Part time",2019,"2019",606470,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16815956678400062
+1,"Full time",2019,"2019",39950,"University of California-Berkeley","110635","university-of-california-berkeley",0.9250897302304041
+1,"Full time",2019,"2019",36267,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8901406376555482
+1,"Full time",2019,"2019",5306,"Brandeis University (165015)","165015","brandeis-university",0.9109012875536481
+1,"Full time",2019,"2019",6102,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.8378415488123027
+1,"Full time",2019,"2019",25161,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8421528265890149
+1,"Full time",2019,"2019",47910,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9377568995889607
+2,"Part time",2019,"2019",3235,"University of California-Berkeley","110635","university-of-california-berkeley",0.07491026976959593
+2,"Part time",2019,"2019",4476,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.1098593623444518
+2,"Part time",2019,"2019",519,"Brandeis University (165015)","165015","brandeis-university",0.08909871244635194
+2,"Part time",2019,"2019",1181,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.16215845118769737
+2,"Part time",2019,"2019",4716,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.15784717341098503
+2,"Part time",2019,"2019",3180,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.062243100411039344
+1,"Full time",2018,"2018",5171124,"Doctoral Universities","DOC","doctoral-universities",0.7792053742333765
+2,"Part time",2018,"2018",1465283,"Doctoral Universities","DOC","doctoral-universities",0.22079462576662343
+1,"Full time",2018,"2018",2949765,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8363780866227821
+2,"Part time",2018,"2018",577067,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16362191337721785
+1,"Full time",2018,"2018",39393,"University of California-Berkeley","110635","university-of-california-berkeley",0.9268723088868497
+1,"Full time",2018,"2018",36603,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8884223300970874
+1,"Full time",2018,"2018",5267,"Brandeis University (165015)","165015","brandeis-university",0.9081034482758621
+1,"Full time",2018,"2018",5718,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.8252273055274931
+1,"Full time",2018,"2018",25220,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8403585352037586
+1,"Full time",2018,"2018",48542,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9365256984102485
+2,"Part time",2018,"2018",3108,"University of California-Berkeley","110635","university-of-california-berkeley",0.07312769111315028
+2,"Part time",2018,"2018",4597,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.11157766990291262
+2,"Part time",2018,"2018",533,"Brandeis University (165015)","165015","brandeis-university",0.09189655172413794
+2,"Part time",2018,"2018",1211,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.17477269447250685
+2,"Part time",2018,"2018",4791,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.1596414647962414
+2,"Part time",2018,"2018",3290,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06347430158975151
+1,"Full time",2017,"2017",5139378,"Doctoral Universities","DOC","doctoral-universities",0.7796012812492605
+2,"Part time",2017,"2017",1452938,"Doctoral Universities","DOC","doctoral-universities",0.2203987187507395
+1,"Full time",2017,"2017",2906997,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8358476357736256
+2,"Part time",2017,"2017",570906,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16415236422637433
+1,"Full time",2017,"2017",38952,"University of California-Berkeley","110635","university-of-california-berkeley",0.9298417321142967
+1,"Full time",2017,"2017",35815,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8838626884825153
+1,"Full time",2017,"2017",5158,"Brandeis University (165015)","165015","brandeis-university",0.901590631008565
+1,"Full time",2017,"2017",5615,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.8118854829381145
+1,"Full time",2017,"2017",25108,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8394236234161345
+1,"Full time",2017,"2017",47980,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9311984473556526
+2,"Part time",2017,"2017",2939,"University of California-Berkeley","110635","university-of-california-berkeley",0.07015826788570337
+2,"Part time",2017,"2017",4706,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.11613731151748476
+2,"Part time",2017,"2017",563,"Brandeis University (165015)","165015","brandeis-university",0.09840936899143507
+2,"Part time",2017,"2017",1301,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.18811451706188548
+2,"Part time",2017,"2017",4803,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.16057637658386548
+2,"Part time",2017,"2017",3545,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06880155264434741
+1,"Full time",2016,"2016",5122545,"Doctoral Universities","DOC","doctoral-universities",0.7803563969467882
+2,"Part time",2016,"2016",1441821,"Doctoral Universities","DOC","doctoral-universities",0.21964360305321184
+1,"Full time",2016,"2016",2864979,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8352998252709058
+2,"Part time",2016,"2016",564902,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1647001747290941
+1,"Full time",2016,"2016",37321,"University of California-Berkeley","110635","university-of-california-berkeley",0.9294466304726802
+1,"Full time",2016,"2016",34444,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8813038917176266
+1,"Full time",2016,"2016",5199,"Brandeis University (165015)","165015","brandeis-university",0.9074882178390644
+1,"Full time",2016,"2016",5409,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.8174399274595738
+1,"Full time",2016,"2016",25084,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8512284512013031
+1,"Full time",2016,"2016",47516,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9256784399290877
+2,"Part time",2016,"2016",2833,"University of California-Berkeley","110635","university-of-california-berkeley",0.07055336952731982
+2,"Part time",2016,"2016",4639,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.11869610828237341
+2,"Part time",2016,"2016",530,"Brandeis University (165015)","165015","brandeis-university",0.09251178216093559
+2,"Part time",2016,"2016",1208,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.18256007254042617
+2,"Part time",2016,"2016",4384,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.1487715487986969
+2,"Part time",2016,"2016",3815,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.07432156007091231
+1,"Full time",2015,"2015",5105931,"Doctoral Universities","DOC","doctoral-universities",0.7834890870126566
+2,"Part time",2015,"2015",1410983,"Doctoral Universities","DOC","doctoral-universities",0.2165109129873434
+1,"Full time",2015,"2015",2819994,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8377244148170593
+2,"Part time",2015,"2015",546261,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1622755851829407
+1,"Full time",2015,"2015",35960,"University of California-Berkeley","110635","university-of-california-berkeley",0.9416324072376863
+1,"Full time",2015,"2015",33501,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8783691662296801
+1,"Full time",2015,"2015",5202,"Brandeis University (165015)","165015","brandeis-university",0.9043810848400556
+1,"Full time",2015,"2015",5092,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.8007548356659853
+1,"Full time",2015,"2015",24070,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8276028056663458
+1,"Full time",2015,"2015",47007,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9226104023552503
+2,"Part time",2015,"2015",2229,"University of California-Berkeley","110635","university-of-california-berkeley",0.05836759276231376
+2,"Part time",2015,"2015",4639,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.12163083377031987
+2,"Part time",2015,"2015",550,"Brandeis University (165015)","165015","brandeis-university",0.09561891515994436
+2,"Part time",2015,"2015",1267,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.1992451643340148
+2,"Part time",2015,"2015",5014,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.17239719433365425
+2,"Part time",2015,"2015",3943,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.07738959764474976
+1,"Full time",2014,"2014",5047167,"Doctoral Universities","DOC","doctoral-universities",0.7846347573767918
+2,"Part time",2014,"2014",1385338,"Doctoral Universities","DOC","doctoral-universities",0.21536524262320822
+1,"Full time",2014,"2014",2785665,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.838142854048121
+2,"Part time",2014,"2014",537951,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16185714595187892
+1,"Full time",2014,"2014",35481,"University of California-Berkeley","110635","university-of-california-berkeley",0.9445228270996938
+1,"Full time",2014,"2014",32938,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8757777186918373
+1,"Full time",2014,"2014",5457,"Brandeis University (165015)","165015","brandeis-university",0.9179142136248949
+1,"Full time",2014,"2014",4850,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.7918367346938775
+1,"Full time",2014,"2014",24275,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8331903209198559
+1,"Full time",2014,"2014",46993,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.915810808177265
+2,"Part time",2014,"2014",2084,"University of California-Berkeley","110635","university-of-california-berkeley",0.05547717290030613
+2,"Part time",2014,"2014",4672,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.12422228130816272
+2,"Part time",2014,"2014",488,"Brandeis University (165015)","165015","brandeis-university",0.08208578637510514
+2,"Part time",2014,"2014",1275,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.20816326530612245
+2,"Part time",2014,"2014",4860,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.16680967908014416
+2,"Part time",2014,"2014",4320,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.08418919182273497
+1,"Full time",2013,"2013",4787984,"Doctoral Universities","DOC","doctoral-universities",0.7784737311388582
+2,"Part time",2013,"2013",1362492,"Doctoral Universities","DOC","doctoral-universities",0.2215262688611418
+1,"Full time",2013,"2013",2739577,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8387527474159212
+2,"Part time",2013,"2013",526674,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16124725258407882
+1,"Full time",2013,"2013",34675,"University of California-Berkeley","110635","university-of-california-berkeley",0.9579258522570308
+1,"Full time",2013,"2013",32199,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8638924661944624
+1,"Full time",2013,"2013",5386,"Brandeis University (165015)","165015","brandeis-university",0.9246351931330472
+1,"Full time",2013,"2013",4180,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.7226832641770401
+1,"Full time",2013,"2013",24390,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8373673910804408
+1,"Full time",2013,"2013",47741,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9170556483989319
+2,"Part time",2013,"2013",1523,"University of California-Berkeley","110635","university-of-california-berkeley",0.04207414774296923
+2,"Part time",2013,"2013",5073,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.13610753380553767
+2,"Part time",2013,"2013",439,"Brandeis University (165015)","165015","brandeis-university",0.0753648068669528
+2,"Part time",2013,"2013",1604,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.2773167358229599
+2,"Part time",2013,"2013",4737,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.16263260891955916
+2,"Part time",2013,"2013",4318,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.08294435160106801
+1,"Full time",2012,"2012",4737820,"Doctoral Universities","DOC","doctoral-universities",0.7754654237798027
+2,"Part time",2012,"2012",1371827,"Doctoral Universities","DOC","doctoral-universities",0.22453457622019735
+1,"Full time",2012,"2012",2719293,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8349905962369595
+2,"Part time",2012,"2012",537382,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16500940376304052
+1,"Full time",2012,"2012",34399,"University of California-Berkeley","110635","university-of-california-berkeley",0.9583762850695121
+1,"Full time",2012,"2012",32274,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.8664626288659794
+1,"Full time",2012,"2012",5339,"Brandeis University (165015)","165015","brandeis-university",0.9192493112947658
+1,"Full time",2012,"2012",3932,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.6960523986546291
+1,"Full time",2012,"2012",24498,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8367374820684473
+1,"Full time",2012,"2012",47990,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9195952937569463
+2,"Part time",2012,"2012",1494,"University of California-Berkeley","110635","university-of-california-berkeley",0.04162371493048784
+2,"Part time",2012,"2012",4974,"University of Maryland-College Park","163286","university-of-maryland-college-park",0.13353737113402062
+2,"Part time",2012,"2012",469,"Brandeis University (165015)","165015","brandeis-university",0.08075068870523416
+2,"Part time",2012,"2012",1717,"Stevens Institute of Technology","186867","stevens-institute-of-technology",0.30394760134537085
+2,"Part time",2012,"2012",4780,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.1632625179315527
+2,"Part time",2012,"2012",4196,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.0804047062430537

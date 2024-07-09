@@ -1,0 +1,177 @@
+ID Enrollment Status,Enrollment Status,ID Year,Year,Enrollment,University,ID University,Slug University,share
+1,"Full time",2022,"2022",5216217,"Doctoral Universities","DOC","doctoral-universities",0.7742394704992301
+2,"Part time",2022,"2022",1520997,"Doctoral Universities","DOC","doctoral-universities",0.2257605295007699
+1,"Full time",2022,"2022",3088642,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8303731896828219
+2,"Part time",2022,"2022",630941,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16962681031717802
+1,"Full time",2022,"2022",44390,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.956062890372604
+1,"Full time",2022,"2022",6733,"Colorado School of Mines","126775","colorado-school-of-mines",0.9094961502093746
+1,"Full time",2022,"2022",28484,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8984071912947484
+1,"Full time",2022,"2022",52402,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8655764783614139
+1,"Full time",2022,"2022",49081,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9369463958460599
+1,"Full time",2022,"2022",44262,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.9041179834953836
+2,"Part time",2022,"2022",2040,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.04393710962739608
+2,"Part time",2022,"2022",670,"Colorado School of Mines","126775","colorado-school-of-mines",0.09050384979062542
+2,"Part time",2022,"2022",3221,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.10159280870525154
+2,"Part time",2022,"2022",8138,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.13442352163858606
+2,"Part time",2022,"2022",3303,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06305360415394014
+2,"Part time",2022,"2022",4694,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.09588201650461639
+1,"Full time",2021,"2021",5203861,"Doctoral Universities","DOC","doctoral-universities",0.7658047846123871
+2,"Part time",2021,"2021",1591423,"Doctoral Universities","DOC","doctoral-universities",0.23419521538761293
+1,"Full time",2021,"2021",3076992,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8228831096451137
+2,"Part time",2021,"2021",662290,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1771168903548863
+1,"Full time",2021,"2021",43955,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9531399080579408
+1,"Full time",2021,"2021",6439,"Colorado School of Mines","126775","colorado-school-of-mines",0.8959231946570196
+1,"Full time",2021,"2021",26490,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8372048923864606
+1,"Full time",2021,"2021",53218,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8628500089174247
+1,"Full time",2021,"2021",48512,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9330845723298263
+1,"Full time",2021,"2021",42333,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.9003956100051046
+2,"Part time",2021,"2021",2161,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.04686009194205915
+2,"Part time",2021,"2021",748,"Colorado School of Mines","126775","colorado-school-of-mines",0.10407680534298037
+2,"Part time",2021,"2021",5151,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.1627951076135394
+2,"Part time",2021,"2021",8459,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.13714999108257536
+2,"Part time",2021,"2021",3479,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06691542767017368
+2,"Part time",2021,"2021",4683,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.09960438999489535
+1,"Full time",2020,"2020",5146509,"Doctoral Universities","DOC","doctoral-universities",0.7649821184906401
+2,"Part time",2020,"2020",1581111,"Doctoral Universities","DOC","doctoral-universities",0.23501788150935993
+1,"Full time",2020,"2020",2981969,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8189331513462967
+2,"Part time",2020,"2020",659316,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1810668486537033
+1,"Full time",2020,"2020",42939,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9629953575994079
+1,"Full time",2020,"2020",6144,"Colorado School of Mines","126775","colorado-school-of-mines",0.9110320284697508
+1,"Full time",2020,"2020",25197,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8373321813106473
+1,"Full time",2020,"2020",52622,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8574687545829327
+1,"Full time",2020,"2020",47298,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9370393850542832
+1,"Full time",2020,"2020",39887,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.8935259856630824
+2,"Part time",2020,"2020",1650,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.03700464240059208
+2,"Part time",2020,"2020",600,"Colorado School of Mines","126775","colorado-school-of-mines",0.08896797153024912
+2,"Part time",2020,"2020",4895,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.16266781868935265
+2,"Part time",2020,"2020",8747,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.14253124541706724
+2,"Part time",2020,"2020",3178,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06296061494571678
+2,"Part time",2020,"2020",4753,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.10647401433691757
+1,"Full time",2019,"2019",5208993,"Doctoral Universities","DOC","doctoral-universities",0.7762226976822367
+2,"Part time",2019,"2019",1501701,"Doctoral Universities","DOC","doctoral-universities",0.22377730231776327
+1,"Full time",2019,"2019",3000045,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8318404332159994
+2,"Part time",2019,"2019",606470,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16815956678400062
+1,"Full time",2019,"2019",42767,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9638502625588785
+1,"Full time",2019,"2019",6131,"Colorado School of Mines","126775","colorado-school-of-mines",0.9250150875075438
+1,"Full time",2019,"2019",25161,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8421528265890149
+1,"Full time",2019,"2019",53025,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8637259533156326
+1,"Full time",2019,"2019",47910,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9377568995889607
+1,"Full time",2019,"2019",39935,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.9023431321598843
+2,"Part time",2019,"2019",1604,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.03614973744112145
+2,"Part time",2019,"2019",497,"Colorado School of Mines","126775","colorado-school-of-mines",0.07498491249245624
+2,"Part time",2019,"2019",4716,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.15784717341098503
+2,"Part time",2019,"2019",8366,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.1362740466843674
+2,"Part time",2019,"2019",3180,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.062243100411039344
+2,"Part time",2019,"2019",4322,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.0976568678401157
+1,"Full time",2018,"2018",5171124,"Doctoral Universities","DOC","doctoral-universities",0.7792053742333765
+2,"Part time",2018,"2018",1465283,"Doctoral Universities","DOC","doctoral-universities",0.22079462576662343
+1,"Full time",2018,"2018",2949765,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8363780866227821
+2,"Part time",2018,"2018",577067,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16362191337721785
+1,"Full time",2018,"2018",42895,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9631317780721648
+1,"Full time",2018,"2018",5801,"Colorado School of Mines","126775","colorado-school-of-mines",0.9171541501976285
+1,"Full time",2018,"2018",25220,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8403585352037586
+1,"Full time",2018,"2018",53129,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8685466732058198
+1,"Full time",2018,"2018",48542,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9365256984102485
+1,"Full time",2018,"2018",39045,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.8983503209626579
+2,"Part time",2018,"2018",1642,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.03686822192783528
+2,"Part time",2018,"2018",524,"Colorado School of Mines","126775","colorado-school-of-mines",0.08284584980237154
+2,"Part time",2018,"2018",4791,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.1596414647962414
+2,"Part time",2018,"2018",8041,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.13145332679418015
+2,"Part time",2018,"2018",3290,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06347430158975151
+2,"Part time",2018,"2018",4418,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.10164967903734211
+1,"Full time",2017,"2017",5139378,"Doctoral Universities","DOC","doctoral-universities",0.7796012812492605
+2,"Part time",2017,"2017",1452938,"Doctoral Universities","DOC","doctoral-universities",0.2203987187507395
+1,"Full time",2017,"2017",2906997,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8358476357736256
+2,"Part time",2017,"2017",570906,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16415236422637433
+1,"Full time",2017,"2017",42454,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9642719240466078
+1,"Full time",2017,"2017",5699,"Colorado School of Mines","126775","colorado-school-of-mines",0.917861169270414
+1,"Full time",2017,"2017",25108,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8394236234161345
+1,"Full time",2017,"2017",52057,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8699801126393368
+1,"Full time",2017,"2017",47980,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9311984473556526
+1,"Full time",2017,"2017",38568,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.8974102426879493
+2,"Part time",2017,"2017",1573,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.03572807595339224
+2,"Part time",2017,"2017",510,"Colorado School of Mines","126775","colorado-school-of-mines",0.08213883072958608
+2,"Part time",2017,"2017",4803,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.16057637658386548
+2,"Part time",2017,"2017",7780,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.13001988736066314
+2,"Part time",2017,"2017",3545,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.06880155264434741
+2,"Part time",2017,"2017",4409,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.10258975731205063
+1,"Full time",2016,"2016",5122545,"Doctoral Universities","DOC","doctoral-universities",0.7803563969467882
+2,"Part time",2016,"2016",1441821,"Doctoral Universities","DOC","doctoral-universities",0.21964360305321184
+1,"Full time",2016,"2016",2864979,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8352998252709058
+2,"Part time",2016,"2016",564902,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1647001747290941
+1,"Full time",2016,"2016",42011,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9647056121980343
+1,"Full time",2016,"2016",5487,"Colorado School of Mines","126775","colorado-school-of-mines",0.9041028175976273
+1,"Full time",2016,"2016",25084,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8512284512013031
+1,"Full time",2016,"2016",51817,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8711374869708484
+1,"Full time",2016,"2016",47516,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9256784399290877
+1,"Full time",2016,"2016",38284,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.8990653327697149
+2,"Part time",2016,"2016",1537,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.03529438780196565
+2,"Part time",2016,"2016",582,"Colorado School of Mines","126775","colorado-school-of-mines",0.09589718240237272
+2,"Part time",2016,"2016",4384,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.1487715487986969
+2,"Part time",2016,"2016",7665,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.12886251302915167
+2,"Part time",2016,"2016",3815,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.07432156007091231
+2,"Part time",2016,"2016",4298,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.1009346672302851
+1,"Full time",2015,"2015",5105931,"Doctoral Universities","DOC","doctoral-universities",0.7834890870126566
+2,"Part time",2015,"2015",1410983,"Doctoral Universities","DOC","doctoral-universities",0.2165109129873434
+1,"Full time",2015,"2015",2819994,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8377244148170593
+2,"Part time",2015,"2015",546261,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.1622755851829407
+1,"Full time",2015,"2015",40497,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9663310107855302
+1,"Full time",2015,"2015",5524,"Colorado School of Mines","126775","colorado-school-of-mines",0.9124545754872811
+1,"Full time",2015,"2015",24070,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8276028056663458
+1,"Full time",2015,"2015",50978,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8689974941615669
+1,"Full time",2015,"2015",47007,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9226104023552503
+1,"Full time",2015,"2015",38330,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.8973218466148516
+2,"Part time",2015,"2015",1411,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.03366898921446979
+2,"Part time",2015,"2015",530,"Colorado School of Mines","126775","colorado-school-of-mines",0.08754542451271886
+2,"Part time",2015,"2015",5014,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.17239719433365425
+2,"Part time",2015,"2015",7685,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.1310025058384331
+2,"Part time",2015,"2015",3943,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.07738959764474976
+2,"Part time",2015,"2015",4386,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.10267815338514842
+1,"Full time",2014,"2014",5047167,"Doctoral Universities","DOC","doctoral-universities",0.7846347573767918
+2,"Part time",2014,"2014",1385338,"Doctoral Universities","DOC","doctoral-universities",0.21536524262320822
+1,"Full time",2014,"2014",2785665,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.838142854048121
+2,"Part time",2014,"2014",537951,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16185714595187892
+1,"Full time",2014,"2014",40538,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9687656828772853
+1,"Full time",2014,"2014",5394,"Colorado School of Mines","126775","colorado-school-of-mines",0.904729956390473
+1,"Full time",2014,"2014",24275,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8331903209198559
+1,"Full time",2014,"2014",50624,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8680086416789548
+1,"Full time",2014,"2014",46993,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.915810808177265
+1,"Full time",2014,"2014",38149,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.8955584769237992
+2,"Part time",2014,"2014",1307,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.03123431712271478
+2,"Part time",2014,"2014",568,"Colorado School of Mines","126775","colorado-school-of-mines",0.09527004360952701
+2,"Part time",2014,"2014",4860,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.16680967908014416
+2,"Part time",2014,"2014",7698,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.13199135832104522
+2,"Part time",2014,"2014",4320,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.08418919182273497
+2,"Part time",2014,"2014",4449,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.10444152307620076
+1,"Full time",2013,"2013",4787984,"Doctoral Universities","DOC","doctoral-universities",0.7784737311388582
+2,"Part time",2013,"2013",1362492,"Doctoral Universities","DOC","doctoral-universities",0.2215262688611418
+1,"Full time",2013,"2013",2739577,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8387527474159212
+2,"Part time",2013,"2013",526674,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16124725258407882
+1,"Full time",2013,"2013",39794,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.975462679249908
+1,"Full time",2013,"2013",5188,"Colorado School of Mines","126775","colorado-school-of-mines",0.896027633851468
+1,"Full time",2013,"2013",24390,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8373673910804408
+1,"Full time",2013,"2013",50012,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.870288518428288
+1,"Full time",2013,"2013",47741,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9170556483989319
+1,"Full time",2013,"2013",38428,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.9004381751294608
+2,"Part time",2013,"2013",1001,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.024537320750091924
+2,"Part time",2013,"2013",602,"Colorado School of Mines","126775","colorado-school-of-mines",0.10397236614853195
+2,"Part time",2013,"2013",4737,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.16263260891955916
+2,"Part time",2013,"2013",7454,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.12971148157171197
+2,"Part time",2013,"2013",4318,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.08294435160106801
+2,"Part time",2013,"2013",4249,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.09956182487053916
+1,"Full time",2012,"2012",4737820,"Doctoral Universities","DOC","doctoral-universities",0.7754654237798027
+2,"Part time",2012,"2012",1371827,"Doctoral Universities","DOC","doctoral-universities",0.22453457622019735
+1,"Full time",2012,"2012",2719293,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.8349905962369595
+2,"Part time",2012,"2012",537382,"Doctoral Universities: Highest Research Activity","15","doctoral-universities-highest-research-activity",0.16500940376304052
+1,"Full time",2012,"2012",38950,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.9750907497809488
+1,"Full time",2012,"2012",5120,"Colorado School of Mines","126775","colorado-school-of-mines",0.8949484355881839
+1,"Full time",2012,"2012",24498,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.8367374820684473
+1,"Full time",2012,"2012",49000,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.8689946264209836
+1,"Full time",2012,"2012",47990,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.9195952937569463
+1,"Full time",2012,"2012",38034,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.8998083702003833
+2,"Part time",2012,"2012",995,"University of California-Los Angeles (110662)","110662","university-of-california-los-angeles",0.024909250219051195
+2,"Part time",2012,"2012",601,"Colorado School of Mines","126775","colorado-school-of-mines",0.10505156441181612
+2,"Part time",2012,"2012",4780,"University of North Carolina at Chapel Hill","199120","university-of-north-carolina-at-chapel-hill",0.1632625179315527
+2,"Part time",2012,"2012",7387,"Ohio State University-Main Campus","204796","ohio-state-university-main-campus",0.13100537357901643
+2,"Part time",2012,"2012",4196,"The University of Texas at Austin","228778","the-university-of-texas-at-austin",0.0804047062430537
+2,"Part time",2012,"2012",4235,"University of Wisconsin-Madison","240444","university-of-wisconsin-madison",0.10019162979961674
